@@ -1,47 +1,47 @@
 criaCartao(
-    'Programação', 
-    'O que é HTML ?', 
-    'É uma linguagem de marcação de hipertexto, resposável por estruturar conteúdos de uma página web.', 
+    'Diário de Bordo', 
+    'Qual foi o destino?', 
+    'Informar o destino da viagem.', 
 )
 
 criaCartao(
-    'Matemática', 
-    'Qual é o valor de Pi?', 
-    'O valor de Pi é aproximadamente 3,14159'
+    'Custo da Viagem', 
+    'Qual foi o custo total dessa viagem e qual a modalidade de aquisição?', 
+    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
 )
 
 criaCartao(
-    'Química', 
-    'O que é a tabela periódica?', 
-    'A tabela periódica organiza todos os elementos químicos conhecidos'
+    'Fato Curioso', 
+    'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
+    'Informar através de um breve texto uma curiosidade.'
 )
 
 criaCartao(
-    'Biologia', 
-    'O que são células?', 
-    'Células são as unidades básicas da vida'
+    '´Passeios', 
+    'Onde passear?', 
+    'Informar os locais, breve resumo do que são, e imagens.'
 )
 
 criaCartao(
-    'Física', 
-    'O que é a gravidade?', 
-    'A gravidade é uma força de atração entre corpos com massa'
+    'Prato Típico', 
+    'Conhece o nome do prato?', 
+    'Explicar sobre o prato, porque o escolheu e o ingrediente principal. Colocar imagem.'
 )
 
 criaCartao(
-    'Literatura', 
-    'Quem escreveu Dom Quixote?', 
-    'Dom Quixote foi escrito por Miguel de Cervantes'
+    'Álbum de fotos', 
+    'Minhas memórias!', 
+    'Colar aqui as montagens das suas fotos.'
 )
 
 criaCartao(
-    'Programação', 
-    'O que é JavaScript?', 
-    'JavaScript é uma linguagem de programação usada para desenvolvimento web'
+    'Álbum de fotos', 
+    'Minhas memórias!', 
+    'Colar aqui as montagens das suas fotos.'
 )
 
 criaCartao(
-    'Arte', 
-    'O que é o Renascimento?', 
-    'O Renascimento foi um movimento cultural e artístico entre os séculos XIV e XVII'
+    'Ponto de Vista', 
+    'O que eu achei da viagem para ...?', 
+    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
 )

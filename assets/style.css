@@ -79,9 +79,9 @@ body{
 }
 
 .cartao__imagem img {
-    width: auto;
-    height: auto;
-    margin-top: auto;
+    width: 50%;
+    height: 50%;
+    margin-top: 1px;
 }
 
 footer{

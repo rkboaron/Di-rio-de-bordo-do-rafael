@@ -32,3 +32,10 @@ criaCartao(
     'Aqui está a montagem das suas fotos.',
     'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
 );
+
+criaCartao(
+    'Prato Típico', 
+    'Conhece o "nome do prato"?', 
+    'Explicar sobre o prato, porque o escolheu e o ingrediente principal. Colocar imagem.'
+     'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4AzxER597WtFt5RCA8BoNFObHyB4XasLZw&s'
+)

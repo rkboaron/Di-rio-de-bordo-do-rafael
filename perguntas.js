@@ -20,6 +20,7 @@ criaCartao(
     'Passeios', 
     'Onde passear?', 
     'Informar os locais, breve resumo do que são, e imagens.'
+    @import url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvVME05sJ2CAtZK6fpiKE2R8ONtmveZv03pPGB2-5QvbIJyNhd9JaPXvqcARoZEymW1w&usqp=CAU');
 )
 
 criaCartao(

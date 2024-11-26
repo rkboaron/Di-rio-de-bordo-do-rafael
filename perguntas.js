@@ -46,6 +46,7 @@ criaCartao(
     'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
 )
 
+// Função de criação de cartão com imagem
 function criaCartao(titulo, pergunta, resposta, imagem) {
     const container = document.getElementById('container');
     
@@ -61,24 +62,9 @@ function criaCartao(titulo, pergunta, resposta, imagem) {
             <div class="cartao__conteudo__resposta">
                 <p>${resposta}</p>
             </div>
-            ${imagem ? `<div class="cartao__imagem"><img src="${imagem}" alt="Imagem do cartão"></div>` : ''}
+            ${imagem ? `<div class="cartao__imagem"><img src="${imagem}" alt="Imagem do álbum"></div>` : ''}
         </div>
     `;
     
     container.appendChild(cartao);
 }
-
-// Exemplos de uso da função com imagens
-criaCartao(
-    'Diário de Bordo', 
-    'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
-    'https://via.placeholder.com/150' // Link para imagem
-);
-
-criaCartao(
-    'Custo da Viagem', 
-    'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente.',
-    'https://via.placeholder.com/150' // Link para imagem
-);

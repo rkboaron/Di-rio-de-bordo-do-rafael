@@ -37,5 +37,5 @@ criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
     'achei a viagem maravilhosa , só da proxima vez pegaria uma polsada com mais dias, 
-    para conseguir ver tudo com mais calma.'
+    para conseguir ver tudo com mais calma e melhor.'
 )

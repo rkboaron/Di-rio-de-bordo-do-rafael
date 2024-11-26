@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Custo da Viagem', 
-    'Qual foi o custo total dessa viagem e qual a modalidade de aquisição?', 
+    'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
     'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
 )
 
@@ -17,14 +17,14 @@ criaCartao(
 )
 
 criaCartao(
-    '´Passeios', 
+    'Passeios', 
     'Onde passear?', 
     'Informar os locais, breve resumo do que são, e imagens.'
 )
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o nome do prato?', 
+    'Conhece o "nome do prato"?', 
     'Explicar sobre o prato, porque o escolheu e o ingrediente principal. Colocar imagem.'
 )
 

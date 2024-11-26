@@ -29,18 +29,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Álbum de fotos', 
-    'Minhas memórias!', 
-    'Colar aqui as montagens das suas fotos.'
-)
-
-criaCartao(
-    'Álbum de fotos', 
-    'Minhas memórias!', 
-    'Colar aqui as montagens das suas fotos.'
-)
-
-criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
     'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'

@@ -78,6 +78,11 @@ body{
     transform: rotateY(180deg);
 }
 
+.cartao__imagem img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
 footer{
     background-color: black;
     color: white;

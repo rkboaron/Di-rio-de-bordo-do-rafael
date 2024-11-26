@@ -45,8 +45,6 @@ criaCartao(
     'O que eu achei da viagem para ...?', 
     'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
 )
-
-// Função de criação de cartão com imagem
 function criaCartao(titulo, pergunta, resposta, imagem) {
     const container = document.getElementById('container');
     
@@ -65,7 +63,6 @@ function criaCartao(titulo, pergunta, resposta, imagem) {
             ${imagem ? `<div class="cartao__imagem"><img src="${imagem}" alt="Imagem do álbum"></div>` : ''}
         </div>
     `;
-    
     container.appendChild(cartao);
 }
 criaCartao(

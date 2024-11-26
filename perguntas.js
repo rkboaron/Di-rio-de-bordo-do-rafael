@@ -1,35 +1,39 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Dubai.', 
+    'ARGENTINA.', 
 )
 
 criaCartao(
     'Custo da Viagem', 
-    'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
-)
+   Passagem aérea (ida e volta):
+Aproximadamente R$ 1.500 (259.911,15 Peso Argentino) a R$
+2.500 (433.073,50 Peso Argentino) , dependendo da cidade de
+origem e época do ano.
+
+Hospedagem: Média de R$ 1.000 (173.262,20 Peso Argentino) a R$
+2.500 (433.073,50 Peso Argentino)  por 7 dias em hotéis de 3
+estrelas.
 
 criaCartao(
     'Fato Curioso', 
-    'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+  A Argentina é conhecida pelo tango, uma dança e música tradicional que nasceu em Buenos Aires no final do século XIX.
+
 )
 
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+   estádios de futebol , patagônia que é uma parte conhecida pelas suas bebidas, bariloche conhecida pela suas paisagens 
 )
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'alfajor 
+    principal ingrediente doce de leite
 )
 
 criaCartao(
     'Ponto de Vista', 
-    'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'achei um país maravilhoso , porém faltou tempo para conhecer todas atrações e pontos turísticos, voltaria para ficar mais tempo e conhecer todos pontos turísticos'
 )

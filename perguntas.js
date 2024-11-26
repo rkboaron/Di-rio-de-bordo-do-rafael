@@ -68,3 +68,9 @@ function criaCartao(titulo, pergunta, resposta, imagem) {
     
     container.appendChild(cartao);
 }
+criaCartao(
+    'Álbum de fotos', 
+    'Minhas memórias!', 
+    'Colar aqui as montagens das suas fotos.',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvVME05sJ2CAtZK6fpiKE2R8ONtmveZv03pPGB2-5QvbIJyNhd9JaPXvqcARoZEymW1w&usqp=CAU'
+);

@@ -1,7 +1,7 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'argentina.', 
+    'Argentina', 
 )
 
 criaCartao(
@@ -19,21 +19,17 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'estadios de futebol, bariloche conhecida por suas belezas naturais, 
-    patagônia por suas bebidas, 
-    buenos aires por ser a capital.'
+    'estadios de futebol, bariloche conhecida por suas belezas naturais, patagônia por suas bebidas, Buenos Aires por ser a capital.'
 )
 
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'alfajor, escolhi porque quando fui para la comprei e gostei muito desse prato, 
-    o ingrediente principal é chocolate e doce de leite.'
+    'alfajor, escolhi porque quando fui para la comprei e gostei muito desse prato, o ingrediente principal é chocolate e doce de leite.'
 )
 
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'achei a viagem maravilhosa , só da proxima vez pegaria uma polsada com mais dias, 
-    para conseguir ver tudo com mais calma e melhor.'
+    'achei a viagem maravilhosa , só da proxima vez pegaria uma polsada com mais dias, para conseguir ver tudo com mais calma e melhor.'
 )

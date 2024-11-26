@@ -25,9 +25,7 @@ function criaCartao(categoria, pergunta, resposta){
     
     container.appendChild(cartao)
 }
-function criaCartao(titulo, pergunta, resposta, imagem) {
-    const container = document.getElementById('container');
-    
+ 
     const cartao = document.createElement('article');
     cartao.classList.add('cartao');
     

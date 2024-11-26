@@ -18,18 +18,15 @@ criaCartao(
 
 criaCartao(
     'Passeios', 
-    'Quais locais visitar?', 
     'Estádios, Bariloche, Patagônia.'
 );
 
 criaCartao(
-    'Prato Típico', 
-    'Conhece o prato típico?', 
+    'Prato Típico',  
     'Alfajor. Ingrediente principal: chocolate.'
 );
 
 criaCartao(
     'Ponto de Vista', 
-    'Qual foi sua opinião sobre a viagem?', 
     'País muito bom e lindo, porém faltou tempo para visitar outros pontos turísticos.'
 );

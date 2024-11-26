@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são, e imagens.'
+    'Informar os locais, breve resumo do que são.'
 )
 
 criaCartao(

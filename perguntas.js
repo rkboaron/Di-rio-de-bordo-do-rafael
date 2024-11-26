@@ -6,6 +6,7 @@ criaCartao(
 
 criaCartao(
     "Custo da Viagem", 
+    "custo da viagem",
       "Passagem aérea (ida e volta): Aproximadamente R$ 1.500 a R$ 2.500, dependendo da cidade de origem e época do ano.\nHospedagem: Média de R$ 1.000 a R$ 2.500 por 7 dias em hotéis de 3 estrelas."
 ); 
    

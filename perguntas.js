@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal. Colocar imagem.'
+    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
 )
 
 criaCartao(

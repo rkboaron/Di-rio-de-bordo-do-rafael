@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #48427a;
-    --card-back-color: #bf94f1;
+    --text-color: #7e949e;
+    --card-front-color: #fc7765;
+    --card-back-color: #ff335f;
 }
 
 body{
-    background: url('img/bg-desktop-violet.webp');
+    background: url('https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/example-of-desktop-background-on-a-mac-created-with-midjourney.jpg');
     font-family: Bai Jamjuree;
 }
 

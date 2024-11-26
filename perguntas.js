@@ -9,7 +9,7 @@ criaCartao(
     "Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?", 
     "Passagem aérea (ida e volta): Aproximadamente R$ 1.500 a R$ 2.500, (259.960,35 Peso Argentino , 433.267,25 Peso Argentino )
     dependendo da cidade de origem e época do ano.
-    Hospedagem: Média de R$ 1.000 a R$ 2.500 por 7 dias em hotéis de 3 estrelas." ( 173.306,90 Peso Argentino, 433.267,25 Peso Argentino
+    Hospedagem: Média de R$ 1.000 a R$ 2.500 por 7 dias em hotéis de 3 estrelas." ( 173.306,90 Peso Argentino, 433.267,25 Peso Argentino)
 )
 
 criaCartao(

@@ -1,35 +1,35 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Argentina'
-);
+    'Informar o destino da viagem.', 
+)
 
 criaCartao(
     "Custo da Viagem", 
-    "Qual foi o custo total da viagem por pessoa e como foi adquirido?", 
-    "Passagem aérea (ida e volta): Aproximadamente R$ 1.500 a R$ 2.500, dependendo da cidade de origem e época do ano.\nHospedagem: Média de R$ 1.000 a R$ 2.500 por 7 dias em hotéis de 3 estrelas."
-);
+    "Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?", 
+    "descreva "
+)
 
 criaCartao(
     'Fato Curioso', 
-    'Qual curiosidade sobre o local visitado?', 
-    'Os pontos mais altos e mais baixos da América do Sul ficam na Argentina..
-);
+    'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
+    'Informar através de um breve texto uma curiosidade.'
+)
 
 criaCartao(
     'Passeios', 
-    'Quais locais visitar?', 
-    'Estádios, Bariloche, Patagônia.'
-);
+    'Onde passear?', 
+    'Informar os locais, breve resumo do que são.'
+)
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o prato típico?', 
-    'Alfajor. Ingrediente principal: chocolate.'
-);
+    'Conhece o "nome do prato"?', 
+    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+)
 
 criaCartao(
     'Ponto de Vista', 
-    'Qual foi sua opinião sobre a viagem?', 
-    'País muito bom e lindo, porém faltou tempo para visitar outros pontos turísticos.'
-);
+    'O que eu achei da viagem para ...?', 
+    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+)

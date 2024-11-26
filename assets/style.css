@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 
 :root {
-    --text-color: #7e949e;
+    --text-color: #0d0f36;
     --card-front-color: #fc7765;
-    --card-back-color: #ff335f;
+    --card-back-color: #f1f6ce;
 }
 
 body{
-    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpurple-desktop-wallpaper&psig=AOvVaw1Ly0E6f3KLjhndNxpCjjcl&ust=1732724132162000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCH6d2y-okDFQAAAAAdAAAAABAJ');
+    background: url('https://thumbs.dreamstime.com/b/abstract-landscape-desktop-wallpaper-generative-ai-abstract-landscape-desktop-wallpaper-design-background-instagram-facebook-324115179.jpg');
     font-family: Bai Jamjuree;
 }
 

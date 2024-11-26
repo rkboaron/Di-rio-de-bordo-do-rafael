@@ -30,5 +30,5 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTR5h9vz0u58drc1ermVcXRvLLWC_t6DRug&s'
 );

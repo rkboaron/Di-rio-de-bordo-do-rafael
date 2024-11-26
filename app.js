@@ -38,4 +38,4 @@ criaCartao(
     'Conhece o "nome do prato"?', 
     'Explicar sobre o prato, porque o escolheu e o ingrediente principal. Colocar imagem.'
      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4AzxER597WtFt5RCA8BoNFObHyB4XasLZw&s'
-)
+);

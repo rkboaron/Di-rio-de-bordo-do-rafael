@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Os pontos mais altos e mais baixos da América do Sul ficam na Argentina.'
 )
 
 criaCartao(
